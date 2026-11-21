@@ -1,0 +1,10 @@
+# Arquivo fora da entrega (exercício de conta bancária)
+/app.py
+
+# Python
+venv/
+__pycache__/
+
+# Node / Vite
+node_modules/
+dist/
